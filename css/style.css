@@ -376,6 +376,16 @@ button {
     display: flex;
 }
 
+.wawe {
+    width: 130%;
+    margin-left: -50px;
+    margin-bottom: -90px;
+}
+.wawe img {
+    width: 100%;
+    height: auto;
+}
+
 .second-card .image-container.second {
     width: 100%;
     background-image: url('../images/sectiontwo.png');
@@ -396,6 +406,10 @@ button {
     display: flex;
     padding: 20px 20px;
     color: #391714;
+}
+
+.menu_main.footer {
+    padding-top: 100px;
 }
 
 .custome_menu {
