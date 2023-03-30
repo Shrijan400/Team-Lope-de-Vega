@@ -108,6 +108,11 @@ button:focus {
     outline: none;
 }
 
+.footer-items {
+    font-size: 32px;
+    font-weight: 400px;
+}
+
 ul,
 li,
 ol {
