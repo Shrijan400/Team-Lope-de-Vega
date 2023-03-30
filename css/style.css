@@ -365,9 +365,6 @@ button {
     display: flex;
     flex-direction: column;
 }
-.second-card .col.first-col {
-    margin-left: 50px;
-}
 .second-card .image-container.first {
     width: 100%;
     background-image: url('../images/sectionone.png');
