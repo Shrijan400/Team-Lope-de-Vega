@@ -593,8 +593,8 @@ input.form-control::placeholder {
 }
 
 .things-to-do-section {
-padding-top: 4rem;
-padding-bottom: 4rem;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
 }
 
 .title-row {
@@ -611,7 +611,6 @@ padding-bottom: 4rem;
 
 .things-to-do {
     text-align: left;
-    margin-left: 36px;
     margin-bottom: 24px;
 }
 
