@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Almoneda Variable';
+    src: url('AlmonedaVariable-Regular.woff2') format('woff2'),
+        url('AlmonedaVariable-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Almoneda';
+    src: url('Almoneda-Light.woff2') format('woff2'),
+        url('Almoneda-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Almoneda';
+    src: url('Almoneda-Bold.woff2') format('woff2'),
+        url('Almoneda-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Almoneda';
+    src: url('Almoneda-Regular.woff2') format('woff2'),
+        url('Almoneda-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

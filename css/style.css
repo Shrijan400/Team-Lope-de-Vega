@@ -1,22 +1,3 @@
---------------------------------------------------------------------- File Name: style.css ---------------------------------------------------------------------*/
-
-
-/*--------------------------------------------------------------------- import Fonts ---------------------------------------------------------------------*/
-
-@import url('https://fonts.googleapis.com/css?family=Rajdhani:300,400,500,600,700');
-@import url('https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
-@font-face {
-    font-family: "Righteous";
-    src: url("../fonts/BalooChettan-Regular.ttf");
-    src: url("../fonts/BalooChettan-Regular.ttf");
-}
-
-
-/*****---------------------------------------- 1) font-family: 'Rajdhani', sans-serif;
- 2) font-family: 'Poppins', sans-serif;
- ----------------------------------------*****/
-
-
 /*--------------------------------------------------------------------- import Files ---------------------------------------------------------------------*/
 
 @import url(animate.min.css);
@@ -48,11 +29,9 @@ body {
     line-height: 1.80857;
     font-weight: normal;
     overflow-x: hidden;
-    background-image: url(../images/body-bg.png);
+    background-color: #e8b8493b;
     height: auto;
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    font-family: 'Sen', sans-serif;
+    font-family: 'Almoneda'
 }
 
 a {
@@ -334,7 +313,6 @@ button {
 
 .layout_main {
     width: 100%;
-    background-color: rgb(18, 18, 18, 0.9);
     height: auto;
     background-size: cover;
     float: left;
@@ -343,10 +321,7 @@ button {
 .banner_section {
     width: 100%;
     float: left;
-    background-image: url(../images/banner-bg.png);
     height: auto;
-    background-repeat: no-repeat;
-    background-size: 100%;
     padding-bottom: 100px;
 }
 
@@ -597,7 +572,7 @@ input.form-control::placeholder {
     width: 100%;
     float: left;
     font-size: 50px;
-    color: #fefbfb;
+    color: #391714;
     font-weight: 800;
     text-align: center;
 }
@@ -686,11 +661,8 @@ input.form-control::placeholder {
 .blog_section_2 {
     width: 100%;
     float: left;
-    background-image: url(../images/about-bg.png);
     height: auto;
     padding: 20px 0px 70px 0pc;
-    background-size: 100%;
-    background-repeat: no-repeat;
 }
 
 .blog_taital_main {
@@ -713,6 +685,7 @@ input.form-control::placeholder {
     font-size: 16px;
     color: #f8f8f8;
     margin: 15px 0px 0px 0px;
+    font-family: 'DINPro';
 }
 
 .readmore_btn {
@@ -772,7 +745,7 @@ input.form-control::placeholder {
     font-size: 16px;
     color: #eaebe7;
     margin: 30px 0px 40px 0px;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Almoneda'
 }
 
 .app_icon_main{
@@ -799,7 +772,7 @@ input.form-control::placeholder {
     background-color: #ffffff;
     padding: 10px 0px;
     text-align: center;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Almoneda'
 }
 
 .download_bt a:hover {
@@ -825,7 +798,7 @@ input.form-control::placeholder {
     color: #ffffff;
     text-align: center;
     font-weight: bold;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Almoneda'
 }
 
 .testimonial_section_2 {
