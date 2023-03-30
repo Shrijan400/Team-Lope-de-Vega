@@ -329,33 +329,41 @@ button {
     width: 100%;
     margin: 0 auto;
     text-align: center;
-    background-color: #252525;
+    background-color: #7CBFC5;
     height: auto;
     display: flex;
     padding: 20px 20px;
+    color: #391714;
 }
 
 .custome_menu {
-    width: 78%;
-    float: left;
+    margin: auto;
 }
 
 .custome_menu ul {
     padding: 0px;
     margin: 0px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
 }
 
 .custome_menu li {
     float: left;
     font-size: 18px;
-    color: #ffffff;
+    color: #391714;
     padding: 0px 10px;
     text-transform: uppercase;
 }
 
 .custome_menu li a {
-    color: #ffffff;
+    color: #391714;
+    font-weight: bold;
+    font-size: 1.2em;
+    padding-left: 10px;
+    padding-right: 10px;
 }
+
 
 .custome_menu li a:hover {
     color: #1F91DC;
