@@ -592,19 +592,39 @@ input.form-control::placeholder {
     text-align: center;
 }
 
+.things-to-do-section {
+padding-top: 4rem;
+padding-bottom: 4rem;
+}
+
+.title-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title-row label {
+    font-size: 1.5rem;
+    text-decoration: underline;
+}
+
 .things-to-do {
     text-align: left;
     margin-left: 36px;
-    margin-top: 48px;
     margin-bottom: 24px;
 }
 
 .things-card {
+    width: 33rem;
+    height: fit-content;
     background-color: white;
 }
 
 .things-card-image {
     width: 100%;
+    height: 9rem;
+    object-fit: cover;
 }
 
 .card-list {
