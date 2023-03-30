@@ -324,7 +324,9 @@ button {
     height: auto;
     padding-bottom: 100px;
 }
-
+.hero-video > iframe {
+    height: calc(75vh - 90px);
+}
 .menu_main {
     width: 100%;
     margin: 0 auto;
