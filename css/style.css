@@ -1197,18 +1197,18 @@ input.form-control::placeholder {
 
 .copyright_text {
     width: 100%;
-    color: #fefefd;
+    color: #391714;
     text-align: center;
     font-size: 16px;
     margin: 20px 0px;
 }
 
 .copyright_text a {
-    color: #fefefd;
+    color: #391714;
 }
 
 .copyright_text a:hover {
-    color: #252525;
+    color: #391714;
 }
 
 .margin_top_90 {
