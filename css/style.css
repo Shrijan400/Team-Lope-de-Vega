@@ -412,6 +412,22 @@ button {
     padding-top: 100px;
 }
 
+.menu_main.footer  .custome_menu {
+    margin-bottom: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer-items {
+    width: 100%;
+    margin-top: 40px;
+}
+.footer-items .col {
+    display: flex;
+    align-items: baseline;
+    flex-direction: column;
+}
+
 .custome_menu {
     margin: auto;
 }
