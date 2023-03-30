@@ -358,7 +358,7 @@ button {
     margin: 20px;
 }
 .second-card .row {
-    height: 300px;
+    height: 380px;
 }
 .second-card .col {
     justify-content: center;
@@ -375,6 +375,18 @@ button {
     align-items: center;
     display: flex;
 }
+
+.second-card .image-container.second {
+    width: 100%;
+    background-image: url('../images/sectiontwo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    margin: auto;
+    align-items: center;
+    display: flex;
+}
+
 .menu_main {
     width: 100%;
     margin: 0 auto;
