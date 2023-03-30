@@ -332,6 +332,45 @@ button {
 .hero-video > iframe {
     height: calc(75vh - 90px);
 }
+.second-card {
+    color: #391714;
+    font-weight: bold;
+}
+.second-card .title p {
+    font-size: 50px;
+    line-height: 50px;
+    font-weight: bold;
+    margin-top: 0;
+
+}
+.second-card .author p {
+    font-size: 25px;
+    line-height: 25px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.second-card .action a {
+    font-size: 12px;
+    line-height: 12px;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: underline !important;
+    margin: 20px;
+}
+.second-card .row {
+    height: 300px;
+}
+.second-card .col {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.second-card .image-container {
+    width: 100%;
+    background-image: url('https://place-hold.it/300');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .menu_main {
     width: 100%;
     margin: 0 auto;
