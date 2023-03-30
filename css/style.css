@@ -587,6 +587,22 @@ input.form-control::placeholder {
     text-align: center;
 }
 
+.things-to-do {
+    text-align: left;
+    margin-left: 36px;
+    margin-top: 48px;
+    margin-bottom: 24px;
+}
+
+.things-card {
+    background-color: white;
+}
+
+.card-title {
+    margin-top: 32px;
+    margin-bottom: 16px;
+}
+
 .service_section_2 {
     width: 100%;
     float: left;
