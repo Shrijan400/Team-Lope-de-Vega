@@ -365,11 +365,18 @@ button {
     display: flex;
     flex-direction: column;
 }
-.second-card .image-container {
+.second-card .col.first-col {
+    margin-left: 50px;
+}
+.second-card .image-container.first {
     width: 100%;
-    background-image: url('https://place-hold.it/300');
+    background-image: url('../images/sectionone.png');
     background-repeat: no-repeat;
     background-size: cover;
+    height: 100%;
+    margin: auto;
+    align-items: center;
+    display: flex;
 }
 .menu_main {
     width: 100%;
